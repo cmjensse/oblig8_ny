@@ -1,3 +1,8 @@
+//ikke i bruk, test, siden movieList etc 
+//fungerte virker det som jeg ikke klarer å 
+//koble react med sanity, for ingenting blir hentet ut?
+// lurer på om jeg egentlig må lagre inputen i sanity i noe, pages?
+
 import Actor from "./Actor.js";
 
 import Button from "./Button.js";
