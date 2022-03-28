@@ -1,3 +1,5 @@
+// ikke i bruk, test, fungerte ikke.
+
 import client from "./client";
 
 const eventFields = `
